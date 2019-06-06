@@ -1,0 +1,27 @@
+{
+  "name": "mock-data-api",
+  "version": "1.0.0",
+  "description": "A simple api to provide some mock data for consumption",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSchroederOSU/dummy-api.git"
+  },
+  "keywords": [
+    "api",
+    "json",
+    "mock",
+    "dummy",
+    "data"
+  ],
+  "author": "Daniel Schroeder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DSchroederOSU/dummy-api/issues"
+  },
+  "homepage": "https://github.com/DSchroederOSU/dummy-api#readme"
+}
